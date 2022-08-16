@@ -1,0 +1,45 @@
+#lef{
+    width: 200px;
+    margin:0 auto;
+    text-align: center;
+    align-content: center;
+    color: brown;
+    height: 800px;
+    font-size: 25px;
+}
+
+body{
+    background-image: url('miniature serveur.png');  
+    background-repeat: no-repeat;
+    background-color: rgb(179, 171, 171);
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+
+nav.menu ul li.btn{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav.menu ul li.btn a{
+    color: white;
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px;
+}
+
+
+nav.menu ul li.btn a:hover{
+    background-color: grey;
+    color: white;
+    transition: 1s;
+}
+
+#colorstyle{
+    color: brown;
+}
+
+#leff{
+    font-size: 40px;
+}
